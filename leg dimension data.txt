@@ -1,0 +1,85 @@
+sub1:
+	ankle:9
+	knee:49
+	hip:85
+sub2: 
+	ankle:9
+	knee:44
+	hip:75
+sub3: 
+	ankle:9.5
+	knee:49
+	hip:87
+sub4:
+	ankle:9.5
+	knee:45
+	hip:84
+sub5:
+	ankle:9
+	knee:45
+	hip:79
+sub6:
+	ankle:8.5
+	knee:46
+	hip:81
+sub7:
+	ankle:10
+	knee:53
+	hip:92
+sub8:
+	ankele: 10
+	knee: 53
+	hip: 92
+sub9:
+	ankle:8.5
+	knee:44
+	hip:78
+sub10:
+	ankle:9
+	knee:44
+	hip:75
+sub11:
+	ankle:9
+	knee:47
+	hip:85
+sub12:
+	ankle:9
+	knee:48
+	hip:90
+sub13:
+	ankle: 9
+	knee: 49  
+	hip: 86
+sub14:
+	ankle:9
+	knee:45
+	hip:83
+sub15:
+	ankle:9
+	knee:47
+	hip:85
+sub16: 
+	ankle:8
+	knee:46
+	hip:80
+sub17: 
+	ankle:9
+	knee: 48
+	hip:85
+sub18:
+	ankle: 10
+	knee :52
+	hip :93
+sub19:
+	ankle: 9
+	knee: 49
+	hip: 91
+
+sub20:
+	ankle: 10
+	knee: 51
+	hip: 94
+sub21:
+	ankle:10
+	knee:53
+	hip:105
